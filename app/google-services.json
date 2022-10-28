@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610367666001",
+    "project_id": "pumper-94581",
+    "storage_bucket": "pumper-94581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610367666001:android:201b7bfc332ff27746c570",
+        "android_client_info": {
+          "package_name": "com.anilcaliskan.pumperkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610367666001-0clqocintosglu5ikpq56np5s4gs3krh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPToELIpNF_WRs0Cm-yPMxJ3uJmZAEeRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610367666001-0clqocintosglu5ikpq56np5s4gs3krh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

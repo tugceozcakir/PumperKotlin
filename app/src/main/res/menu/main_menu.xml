@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pumper_menu" android:title="Pumper"></item>
+    <item android:id="@+id/remove_coin_menu" android:title="Remove Coin"></item>
+    <item android:id="@+id/add_coin_menu" android:title="Add Coin"></item>
+    <item android:id="@+id/close_notification_menu" android:title="Close Notification"></item>
+    <item android:id="@+id/change_percentage_menu" android:title="Change Percentage"></item>
+    <item android:id="@+id/signout" android:title="Sign out"></item>
+</menu>
